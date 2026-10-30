@@ -1,0 +1,1085 @@
+{
+ "country": "RU-YAN",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2015-03-06",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "0535be17a177bfe128e46eea69c8397e44d176a99dd4200c711a1d11a105f649"
+    },
+    {
+     "from": "2015-04-02",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "68b6a573f4e0593bd86e2198f6bee6e921c2bf694b626fcbd0669f1e1a2b9d58"
+    },
+    {
+     "from": "2015-04-23",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "d3ef49af3e7ca024fb66aacb207dcf21abe07f6248e0bf2b2cde076995e60691"
+    },
+    {
+     "from": "2015-06-03",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "fa9ee48820a882ed591c34b74e0f75a1f10cad78d2827e26e2d56e20719304c8"
+    },
+    {
+     "from": "2015-07-07",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "024162490de303fee91283fa8d3eff064f34ac30ee30312f832be8863b89b1ed"
+    },
+    {
+     "from": "2015-08-27",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "22b91c0cec18eca65b63c931670d42cef1a01f187a1ade87f42d17bb3d6a8ef7"
+    },
+    {
+     "from": "2015-09-08",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a13e7e4bdd1b69544926f628475293499eb636ca50a04f0d56a760e2ad12b540"
+    },
+    {
+     "from": "2015-10-30",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "6ca138bb5ba6ff5294b013236898dc736cb7be67b371b5de0aa3cc5b27d820c6"
+    },
+    {
+     "from": "2015-11-03",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "14d7aadf38d2cac7d2d3e41bc8a5b3220bf12afb9f7dac698261433734b2f83e"
+    },
+    {
+     "from": "2015-12-01",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f38eed26907b35e1adab365ba630490d7956e5de354a1295086146099be8afe2"
+    },
+    {
+     "from": "2015-12-08",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a7f4e539a0077aedf62054f0e4fd200271003daa2e10e98195f67aece183a9ab"
+    },
+    {
+     "from": "2015-12-25",
+     "units": 123,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "ec7bbb60fbd3c6a1b360e0502023f5508ef517b19fbefc9f65177b31ccc0bcaa"
+    },
+    {
+     "from": "2015-12-29",
+     "units": 151,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "91ed8cf95cdfdefa9236da7617ff12c35e55b09ea8c8d56afdbec4695509a50c"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a89991192bbaccfe1bec4e41c2435789654aaa741365704d223ae602e26f4f4d"
+    },
+    {
+     "from": "2016-03-17",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "90b20132a04c156c1a4cb875e33a8cfbb30f7f299d58a3bde68b14ceb44fe656"
+    },
+    {
+     "from": "2016-04-07",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a8101eb088d013df8e1252a1fe6c664f75f72d77ab63f1eeb1e0e195b235cd5a"
+    },
+    {
+     "from": "2016-05-06",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a42ff2b5f4f55ffa81ddaed8ee41e3440ecdedf14ff9b24d2c8df6465cd5bb50"
+    },
+    {
+     "from": "2016-06-14",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "44760c5ba45124cd81a78b3d76561898b8bec08068300bd7cd1fe402a0989930"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "6739b0da29bba0f7fd0b26f8342c312eabfb067c4531e02b44c61967ed2546bc"
+    },
+    {
+     "from": "2016-10-05",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "b897f7dead7466640680fcf5754cefc1d2328e7f7580a78987d220902d1d9bdd"
+    },
+    {
+     "from": "2016-11-07",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "e5bfaf5d78abae975ca65398cd4eff1977c3a4ffbe4ed6c236950a6a51728680"
+    },
+    {
+     "from": "2016-12-02",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a8e1b866542b6e76bf4bf3769be75c442a775e945faab71bb152c207b8bd3088"
+    },
+    {
+     "from": "2016-12-06",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "df6c075620625de043da0f3e13aa82048025ed2c978f35e5d6e98325b879c089"
+    },
+    {
+     "from": "2016-12-22",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "e12fdbd93e799bd2482dfa7f00a10ba43b1b4ea5a241106de3dea3788bead2ff"
+    },
+    {
+     "from": "2016-12-27",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "3d0873181899798ba7edf77a6cf87255162cafb050f6567568e7d9e50249ec4a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "d8131c24b5383d98abae17d430d8f2c437258a69203edc25166d9981e3c38d87"
+    },
+    {
+     "from": "2017-03-31",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "e993773818ab1f31a463bd31c2411b1dca11bb22c47dbb44ceb1d2906d37df99"
+    },
+    {
+     "from": "2017-05-17",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "9bc437e46ca4359439310d823830fd211f37b7ab26ed17d2ed69b8d80383e053"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "23bd080769986bb4d29cc645cb8e48348bc1f97f5d6fa478ca235ebf13de6faa"
+    },
+    {
+     "from": "2017-06-05",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "fb916e6d1d013d89f6525f30e269dc25829c069afeb8eb0de5c6e64e2cf00c6f"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "ff38dc5b0644af78dc58ce4161e33459cf4aae17fbeced6440c1e5a66b50f074"
+    },
+    {
+     "from": "2017-07-04",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "92bbd28b8bfccce6d65d299fbc4c500304bf9cbdd07f40fb9f77964ce1b24f7e"
+    },
+    {
+     "from": "2017-09-28",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "114aea4f0555b181827e4f1bbe3fec717351423c8c8e37d0e89a600ba8647faf"
+    },
+    {
+     "from": "2017-10-02",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "73d4eb6e97549c35d8aeb5ccf05c93ca759356557efe90c9a3147ab1c8cd7a4c"
+    },
+    {
+     "from": "2017-11-02",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "169983837c2dbbb1cbabfe3e25acba41b87f79562887139859ce33669f7bb276"
+    },
+    {
+     "from": "2017-11-03",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "05dd54a060eeda93ef296771be5e0cb6abff2f49c84f361fcdf17faad2397f35"
+    },
+    {
+     "from": "2017-11-22",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "22d2569ac1648431f8598e49e6637222d541fb5124221be37f89b0e9cfe1e90b"
+    },
+    {
+     "from": "2017-11-23",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "ed1af7f22560939f4504a22b77a42a2c0c4611250cd7e49dfe8faf6adbbfc4be"
+    },
+    {
+     "from": "2017-11-29",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "c7a178ee180acd06d8b00317ddbea7f643450f0e08f7f76a391b04e9e2d296b7"
+    },
+    {
+     "from": "2017-12-27",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "7fb26dd5fb7942a799ee46acfe1eaea7e5738e286426aaf4a31a05bc7fea821d"
+    },
+    {
+     "from": "2017-12-29",
+     "units": 125,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "08bbec99890b6d7e9d8513f5f7a665aa34586ad96d47c236a05abf8ee598af4a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2018-02-21",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "82425e32d2d04ebbbdcc7d69f04030894df16c3cbc9d3f3c9098cf08d55e988c"
+    },
+    {
+     "from": "2018-02-26",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "7aff2bc1418c3d8092471221cfe38c6082358d72b4c1f5121c753d49b5804077"
+    },
+    {
+     "from": "2018-03-26",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "dbdd5d1e1b50352679c740e100fbec77429681d271dd4af448ed04f67a142438"
+    },
+    {
+     "from": "2018-04-04",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "c3446e413215930068a361ff987abf0a84604be18aaf18c93d1f1a4918114501"
+    },
+    {
+     "from": "2018-04-25",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "222f96aab42755f5716e017740531550f92fb966bb63b35e5d1ee73992e3137c"
+    },
+    {
+     "from": "2018-05-23",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a2d2a501e74b809723b2046ea4609bc4c64a067820ea5cd83322661c571a41a0"
+    },
+    {
+     "from": "2018-07-03",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "5b3f5d7d523da9a1644177e81f909a46f37acb3da11fe049e42e72cd8639bf0a"
+    },
+    {
+     "from": "2018-10-03",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "e245acf83893506326cb4e3b7616fb9feb150e9ea0edfe37b84b2b91d14544d9"
+    },
+    {
+     "from": "2018-10-08",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f738464e66a1f48012dc3207973fd35f2659168f661d65576d22939179706595"
+    },
+    {
+     "from": "2018-11-07",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "21aa6f8b1602a99b20f1fde522c17896114d27f69f1ef77ddbd2ccf15adee92f"
+    },
+    {
+     "from": "2018-12-03",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "e55c228571cb4b0fdfb45cbf5434b54d462f912dddca55c0eacb05d526fb1b37"
+    },
+    {
+     "from": "2018-12-27",
+     "units": 134,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "ecaf80c42e5c563f7d11f0dcfd32edb1def6f3b4ca17a5993f08f55fff9a75a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "1f8c5ad4d804960693d689d9b28429e10598529a7e46305f03e2c4fb4d64662f"
+    },
+    {
+     "from": "2019-03-28",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "63c4999d4734ac1cec4e0c7cac32460bcc44fcef3eacfb0134c6906b2812d3c7"
+    },
+    {
+     "from": "2019-03-29",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "56931a7c5f5e388714ca7a01c819195ad4a9351a13a507a506a72f0618764ce4"
+    },
+    {
+     "from": "2019-04-24",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "6a06e60377861795546d743b0bccdaf3274703c11a328d05ec8bd0e1b5fb360f"
+    },
+    {
+     "from": "2019-04-25",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "6869219977f4a9438ebf0ec23c0ab055d6792efc0185ca77925d9c7921e4a7fe"
+    },
+    {
+     "from": "2019-06-03",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a71e0d8d278eebb1df6a3366982683e53351aa2c36a2e5f0b63ad624c1dbb18f"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f6dc20b3a871f0ccd842e6e5b1de2c126fe9995ace14a5c7ef6497fceff0eb94"
+    },
+    {
+     "from": "2019-09-27",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "fa73d9fb74e2c6855b83aa69f4e1bfafb56b79843c507efc3f253e38bf241476"
+    },
+    {
+     "from": "2019-11-15",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "7a0481bd694d123e844e826c66684170e7c69019a58c3ba349fe155d0bed46fb"
+    },
+    {
+     "from": "2019-12-06",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "be2cab7d957f8550004e707b1b319ee0f201aed59e742f7c501dae30661c5a78"
+    },
+    {
+     "from": "2019-12-25",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "70ad31c80d75cee10439a29952546770c18b661e01cff3de32b8844cfa5d41f3"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "27cad4d2553fc12238e70473b4d8ef9edb0905cc93e1d5b0067c9960c52857bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "6ec9bbe7003fc05e42568076e697a00bb4e4f2635acba1dfccf3c74cab2031ae"
+    },
+    {
+     "from": "2020-03-04",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "56cef9c402139c3d6ed79244386bcd6ec3315f6d25c2a74864b8e9fe02af2bc6"
+    },
+    {
+     "from": "2020-04-03",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "3a678dbb995b681f12d8f59a46c31b34df1b858d3d6ea2dc4544e868e678831f"
+    },
+    {
+     "from": "2020-04-21",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "cde07d5f813c0c69150cb14fe43b2f78a58fe55e24e9d18f9adc19007428a604"
+    },
+    {
+     "from": "2020-04-29",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "8061bf2c60932f39d80f54500d4e72cfc9ec820c9b75c8ad5bf8d0e66872d9c6"
+    },
+    {
+     "from": "2020-06-04",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "2dece870bedc56dc7c4a2002589b3d418dc6c11aa5014ccf6a2d1efba0a70356"
+    },
+    {
+     "from": "2020-06-05",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "225e61d3dc73b1fb1d66663641d22de37f30c10e7ad337321753e2a673511e7b"
+    },
+    {
+     "from": "2020-07-07",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "1621620d821911bcc949ece9095582cdc7891ba2b40cbaa46fa5585e3b54a9ec"
+    },
+    {
+     "from": "2020-07-08",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "10d5cd3e3e755dac0bc7c5ec27321241b79185d3caece41a51191e58f4f339b6"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "ec63dd7af30858756d0be7360b95748e75e565938f3bc2ddd91740b9a3be3166"
+    },
+    {
+     "from": "2020-10-12",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "66e59b81c2402db66effda2e37ef0bae86f49fd0cd11da367fadb297f9e910cb"
+    },
+    {
+     "from": "2020-10-13",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "66fa6dd204882db2888ded802d7ec589ee6dbe79d613930a652e05d8a94f1592"
+    },
+    {
+     "from": "2020-11-02",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "44c8809d1ddf64ad58185cb01fd3a08c75328da0aaa59c4ebd16a915f632d849"
+    },
+    {
+     "from": "2020-11-03",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "203ae110983ee51e6e7dec76cb3ad70aec05f8fd186336b720588d3e634e5338"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 147,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "1a9ab49d31111123146b9a0f60202d495caa5d726903c57d86738cb85fc64b79"
+    },
+    {
+     "from": "2020-12-07",
+     "units": 149,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "b0b8fadcc91350d36e5001d48c947d4c30db8d7322dffcf173e50fc1ef81e6d1"
+    },
+    {
+     "from": "2020-12-23",
+     "units": 173,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f57a3501c5f278ce296e80c91f728523256278a6cb112942acfeb942cb28ac88"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2021-02-24",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "8ba15c7b28a2e2b0ef730e9d519994d2a8526faae5221f59785d2661af57fe29"
+    },
+    {
+     "from": "2021-03-30",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "23d34704822bef6393f6ac6dfbf2b9ff053a9fa70d3ec930489a9316994d7303"
+    },
+    {
+     "from": "2021-04-12",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "673b55568d3a3b0847b27b3ca4ecc0a1f2390fada8a130f27ea6ee136fd6ad15"
+    },
+    {
+     "from": "2021-04-21",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "d4799e25a4608019721b0ff6b93adf0e8a3e7e107aa2c686cc2fc28dbb138169"
+    },
+    {
+     "from": "2021-04-27",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "215b6449c01bf37a8323704f7e64b195bb4285055bcdc3701eb23e27add833a2"
+    },
+    {
+     "from": "2021-05-25",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "9eb117cb8cf1d45a4312ee9e91e5c4f5009f7d2637daa69916f7e8c0227ea5a5"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "921389e35f6e3ec212867ba2af02aa974ed47eaba86362275fb71fcadbfba0c4"
+    },
+    {
+     "from": "2021-07-16",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "10821ba662d07952efe543d232e97af534400a441a2f44dbe76492f3191c0688"
+    },
+    {
+     "from": "2021-08-19",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f5d3914fa5d4ee5d75281142ee98ab0cf8d76fe956684856af608f55fa898742"
+    },
+    {
+     "from": "2021-10-04",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "4785157207fab9ebe30dbac3791ca636e7dd176d8931a161dca75ff2519f6662"
+    },
+    {
+     "from": "2021-10-29",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "3a2f6d6d1a90dd34d158d8dbf76328576dff18c55c1daa7648c4d7b631bcead6"
+    },
+    {
+     "from": "2021-11-30",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "efd941282cba0c9d524cb2c235f48bf7ee0a0febe15a24ac3958d3961499de3d"
+    },
+    {
+     "from": "2021-12-21",
+     "units": 135,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "d4cd03c746583235064dc7b44121e783981962cc73c01f199809c175e0fcd58d"
+    },
+    {
+     "from": "2021-12-23",
+     "units": 136,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "1888a5009381ab7e6661cb34bf9928cb133495152179c37b3df1ea67f819fd9a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "61825f06d2a44d7e5c5d157d16fa4636b8cebc4e57408f94ff5c70dbb0a54a54"
+    },
+    {
+     "from": "2022-03-29",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "afe84dc29ac74acc641e59edc462d41d51e5b5faf65aaaf23ac3a5463ef170f4"
+    },
+    {
+     "from": "2022-04-25",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "bc68dd4569af6c99ed87cfc32a56950597e2835ad505c4e0251295e64cf57ef1"
+    },
+    {
+     "from": "2022-04-28",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "8622ae32111ea46d2d25b52fc779ae9817396c1fe315ea411672c29de912225b"
+    },
+    {
+     "from": "2022-06-02",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "674de35a16d9801f120d000d9749b25e56505814bf988f1c5f4fe1f1f7d5c125"
+    },
+    {
+     "from": "2022-06-30",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "0cd426ce33efb3002f08152bee01824a11ecc743ae4f0c7c4a9155fc3d08fd3e"
+    },
+    {
+     "from": "2022-10-03",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "5d64a742898d25b9f52a82d563f8520b36dff7407d1a69400c3e11481c98e01a"
+    },
+    {
+     "from": "2022-10-24",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "db165017e4efa0bc957bada2dac1b6bee5d5dcaadd031a739618ace25abcf5e2"
+    },
+    {
+     "from": "2022-10-26",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "d98e5c96e2859a3fbe90532421c91a8036dc155d3151908568eee612e4314142"
+    },
+    {
+     "from": "2022-11-29",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "b97f40e7a10723399b6d5938315b1af5a4522dd1696f37b33d9d60dde2d448df"
+    },
+    {
+     "from": "2022-12-02",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "b30278e4b802ec37f1c9c0ad232a1bf21223829071690c9603515fce76ff7b23"
+    },
+    {
+     "from": "2022-12-03",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "05a0f9603d56bc7b84ee91313e17a1a437064226c2211de8ea345f78b2423493"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "ea802dc4437e500796262be9486a26df783d5dcff6a96c5983379cd5c39fad65"
+    },
+    {
+     "from": "2022-12-21",
+     "units": 129,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "46eb42eaf4cd852a8b4436a51156894d18d1a77577aa8437fecd20cb864dbfd8"
+    },
+    {
+     "from": "2022-12-22",
+     "units": 139,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "63ff86cf5dc85e986dedc6e8641cef3abf45b85723c7c066b012bc825ddd928a"
+    },
+    {
+     "from": "2022-12-23",
+     "units": 140,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "0851b0dc0a185939fdce999f76a9c84b76ffa2650e04ecdf3fe55ff769afda6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "13b3786f0b607ee0a48a6f2c22f7e0ab5046aa49345dbac3fc283e0a3134d0c6"
+    },
+    {
+     "from": "2023-03-27",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f24cb2c0a0be9d62282768701cb252e67f87b4c49d01dc8987c9f7f51358d0c0"
+    },
+    {
+     "from": "2023-04-24",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "8d5db680a7efb73a0526d1cbb46ff455f8bc637dc2f5b5fa0ff300162cb2456f"
+    },
+    {
+     "from": "2023-05-30",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "409d858acce6aaadae17558237f8316e24c88e80e0ce5c6989f7431446459717"
+    },
+    {
+     "from": "2023-06-23",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "e305b4dc44afa0fdbdc05671fdaa40f51335bcdf92d6503998aae60244c3f7e3"
+    },
+    {
+     "from": "2023-06-28",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "1974d52b3ed8e0cd9e6ac2ddba42213129d417cfc61b66c4dceff2e40eaee4fe"
+    },
+    {
+     "from": "2023-06-30",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "4282a35803c55708e7e852ecc508f652f46d0a819bc691d1ad6788fefcdd8700"
+    },
+    {
+     "from": "2023-07-04",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "d9ac585cd16c860c37b4d017dc534244f17830942123edd52a1b34fb04a4e30f"
+    },
+    {
+     "from": "2023-07-06",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "cfdc54944bc78941a197a88d7a7a084362c8a2dd6976ab072806e225ae934b71"
+    },
+    {
+     "from": "2023-10-04",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "5a1e50f48a2190319c317b867024c7f6317bfb993df03fe5e5132faba098284e"
+    },
+    {
+     "from": "2023-11-01",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "3ed0416631692626db651c6904d1ea520016af66dc8d1fd007e78e14a5096cd0"
+    },
+    {
+     "from": "2023-11-27",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "27551b7843930909f30f1b64f4a5f5e000a4067d2d3a02d40faf89cf2fc73e1c"
+    },
+    {
+     "from": "2023-11-28",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "8740cdb32a63d4c42b25da638590397f90f60e2871a0954a0243affed4e219b4"
+    },
+    {
+     "from": "2023-12-25",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "56526e5f4494e2358fb1aad88c7e4431d1ca5488294b80dc6a6dd401ff24ba16"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "0fc39b0f6108f6893730c3a3874c34c96a3839e77dbe6825d0543fd0dda8426b"
+    },
+    {
+     "from": "2024-03-25",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "0218a3af4448ebd8b3b9643abb2de0292f8492a1fc0a5cabacb774a54ef64da0"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "bb6b70a7a224c9f1fb8e8b42c6850660ce51a2712abed65ec84444a03011a936"
+    },
+    {
+     "from": "2024-04-27",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "896a48b033020040cfd8a8a26b78c9a6f125c7c83806da3515b0b017d4cb716b"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "2883516e9a15eaf07ba9d479aa04c19138d57f46058e423bb26c7599cc7aad6d"
+    },
+    {
+     "from": "2024-06-13",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "acfa0472263968891d0f0c70186958aa94645efdb6f53ab0c9c201c799a5bffc"
+    },
+    {
+     "from": "2024-06-14",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f882581aaafe73b87e02394c623ab530d2442678a55e4eccf6a2f32a85ef986a"
+    },
+    {
+     "from": "2024-06-28",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a8dc48bbfa2b9aa7cadb8c400c4afbfe9aa5b46c92334c73baf5d653215dfec7"
+    },
+    {
+     "from": "2024-09-25",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "563f6240fb7d3b31329ad762a63ab22a193e9415c75cc2431c95f4b5eb80249e"
+    },
+    {
+     "from": "2024-10-29",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "42824d977920cb4a0a0212f4c9481994a7a4b7db93c85083c557354ab6b4ddec"
+    },
+    {
+     "from": "2024-10-30",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "b0d41625a6edd025704ddc0a1626659d242a2a2b0a5b040ee1403bd156ec51ed"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "4ce7ef5c6ffc7d425605775748b4885db9cadcd1c28ee0ffc8b41f253d55ef06"
+    },
+    {
+     "from": "2024-11-26",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "c2fb3694ee377bc4633e950333d8959501723cc2707077657db2612fa3978e6d"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "227342f528102ef8a9231f21b2140951b16e3d39e80caa25deb81b964f92cdca"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "37d8df6b8ad2efb3f6f3c25c7428a59710fe10565eb129f8c3897ab508b6470e"
+    },
+    {
+     "from": "2025-03-27",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f0b177c05723c267bce1909521210fdccc9fc180464996cb0c84693bf8e9e9b9"
+    },
+    {
+     "from": "2025-04-24",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "66db6d0ec5b963985a7fd42127c13660abc2a74813499238a788f082ccd156f1"
+    },
+    {
+     "from": "2025-05-30",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "16fe9d116eecd62b3505c6c1023354c3324658b39b9745b0120d643ceb0084ad"
+    },
+    {
+     "from": "2025-06-26",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "dd8dcbbe83581dd7336aaa6f385c8fd149b655183897a458b4d227869a0ebe2f"
+    },
+    {
+     "from": "2025-10-06",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "8cde02775d5c9e95f8a4e36088f0aab569fbe29f8ae84c86d285a4a03c0c7b4d"
+    },
+    {
+     "from": "2025-10-30",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "1f720f0f69d1666b83ebaa01cd9f9966dc6fd86acda230432ddab886122a24e3"
+    },
+    {
+     "from": "2025-11-05",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "ce4b1c734e7fb036fe49e4593dedc28d8e21983ce2cdf7df1abd7a44897d3894"
+    },
+    {
+     "from": "2025-11-24",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "bbfb537b46362ca2fe468a92c25ff3d07e9c148e7515bb2cfffb795101bb71a9"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "6fcb6f41cda3cf553add2344ccb6189ff02a3f418a8b485e637b6bbb4de680c4"
+    },
+    {
+     "from": "2025-12-02",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "b267bf6758857c550ab269fa05230057a68f391a4204f6d30e6e3ea6fd418ca0"
+    },
+    {
+     "from": "2025-12-22",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "8cb4983e563ada0ebb9b027c6d5c3dfbb6cc92d2b8a120acd337351b5c8a659d"
+    },
+    {
+     "from": "2025-12-29",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "1307c3db7bdfa164517c16ef3efb50462bdd649e5857f27fe76c64a3ecb24389"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Yamalo-Nenets Autonomous Okrug: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "ddc23d5f7508c547f127f9479923fee2000b83c0656127591fb81d5e3c06a4b3"
+    },
+    {
+     "from": "2026-03-23",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "dd938e729ff66947673b836a422830193d9151f1c234778beaa99f615805c3fd"
+    },
+    {
+     "from": "2026-04-29",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "4ad1bed966768ce3ee99012dfd771816bb7d6ea81f668c0f295562c6223e160d"
+    },
+    {
+     "from": "2026-05-26",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "75952afad87ec8f6be2d0313975eded6152cfb078836b61f4b2fe537dfe28128"
+    },
+    {
+     "from": "2026-06-02",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "7784860f96b8f56c8224e547ad5feff1c366c357a02c1f94fb87f36e053b9516"
+    },
+    {
+     "from": "2026-06-23",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a84162af8ab14412775fef484015008a4bfa949f4a1ca05562f5240473c5db00"
+    },
+    {
+     "from": "2026-06-25",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "171f5fdc33067b5408e77e58997c2a8596e0fc30e847ca85b676c9164ef48533"
+    },
+    {
+     "from": "2026-07-24",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f7bf7c60998750d3feafbeeeadc76ad9a46d1ce21bda43ad8b2b46ad4edb51a7"
+    },
+    {
+     "from": "2026-09-02",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "321bf2f9ec5638ded5d042b1fe1048508761a041b74930354b91b0ad6d0dcf25"
+    },
+    {
+     "from": "2026-09-28",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "f4d8e8326be305635d6f19cfb2308de39250b49743d6f9a0c8d5f730af31e7d2"
+    },
+    {
+     "from": "2026-10-27",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region89",
+     "sha256": "a156e4b62fd77c32a4dca10f6cfca3770c6cf5132233562b9482e0a6d68a3abd"
+    }
+   ]
+  }
+ ]
+}
