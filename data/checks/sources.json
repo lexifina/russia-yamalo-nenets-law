@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-yamalo-nenets",
+   "kind": "legislation",
+   "name": {
+    "en": "Yamalo-Nenets Autonomous Okrug: Official Internet Portal of Legal Information (region89)",
+    "ru": "Yamalo-Nenets Autonomous Okrug: Официальный интернет-портал правовой информации (region89)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region89",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/yamalo-nenets/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-yamalo-nenets-law",
+   "group": "pravo",
+   "tz": "Asia/Yekaterinburg"
+  }
+ ]
+}
