@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:04:00Z",
+ "generated": "2026-11-26T06:21:18Z",
  "latest": {
   "pravo-yamalo-nenets|russia/yamalo-nenets/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1529,
     "source_in_scope": 1529
    },
-   "check_id": "ru-pravo-yamalo-nenets-20261125T065508Z",
+   "check_id": "ru-pravo-yamalo-nenets-20261126T061224Z",
    "commits": null,
    "corpus": "russia/yamalo-nenets/acts",
    "error": null,
-   "finished": "2026-11-25T06:55:59Z",
+   "finished": "2026-11-26T06:13:03Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region89: 1529 law-type documents listed (every page read); 1529 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1529 law-type documents in block region89; newest published 2026-10-27",
    "source": "pravo-yamalo-nenets",
-   "started": "2026-11-25T06:55:08Z",
+   "started": "2026-11-26T06:12:24Z",
    "unexplained": 0,
    "update": {
     "parts": []
